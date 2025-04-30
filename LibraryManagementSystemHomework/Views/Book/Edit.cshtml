@@ -1,0 +1,43 @@
+﻿@model LibraryManagementSystemHomework.ViewModels.Books.BookEditVM
+
+@{
+    ViewData["Title"] = "Kitabı Redaktə Et";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="form-group">
+        <label asp-for="Title"></label>
+        <input asp-for="Title" class="form-control" />
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="PublishedYear"></label>
+        <input asp-for="PublishedYear" class="form-control" />
+        <span asp-validation-for="PublishedYear" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Price"></label>
+        <input asp-for="Price" class="form-control" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="BookCategoryId"></label>
+        <!-- asp-items="ViewBag.BookCategories" artıq düz yazılıb -->
+        <select asp-for="BookCategoryId"
+                asp-items="ViewBag.BookCategories"
+                class="form-control">
+            <option value="">— Kateqoriya seç —</option>
+        </select>
+        <span asp-validation-for="BookCategoryId" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Yadda saxla</button>
+    <a asp-action="Index" class="btn btn-secondary">Geri</a>
+</form>

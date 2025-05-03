@@ -3,40 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\librarymanagementsystemhomework\\librarymanagementsystemhomework\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|solutionrelative:librarymanagementsystemhomework\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\librarymanagementsystemhomework\\librarymanagementsystemhomework\\views\\author\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|solutionrelative:librarymanagementsystemhomework\\views\\author\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\librarymanagementsystemhomework\\librarymanagementsystemhomework\\viewmodels\\books\\bookcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|solutionrelative:librarymanagementsystemhomework\\viewmodels\\books\\bookcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\librarymanagementsystemhomework\\librarymanagementsystemhomework\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|solutionrelative:librarymanagementsystemhomework\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\librarymanagementsystemhomework\\librarymanagementsystemhomework\\viewmodels\\books\\bookeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|solutionrelative:librarymanagementsystemhomework\\viewmodels\\books\\bookeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\librarymanagementsystemhomework\\librarymanagementsystemhomework\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|solutionrelative:librarymanagementsystemhomework\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\librarymanagementsystemhomework\\librarymanagementsystemhomework\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|solutionrelative:librarymanagementsystemhomework\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\librarymanagementsystemhomework\\librarymanagementsystemhomework\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|solutionrelative:librarymanagementsystemhomework\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\librarymanagementsystemhomework\\librarymanagementsystemhomework\\views\\author\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|solutionrelative:librarymanagementsystemhomework\\views\\author\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\librarymanagementsystemhomework\\librarymanagementsystemhomework\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|solutionrelative:librarymanagementsystemhomework\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\librarymanagementsystemhomework\\librarymanagementsystemhomework\\viewmodels\\author\\authoreditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|solutionrelative:librarymanagementsystemhomework\\viewmodels\\author\\authoreditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\librarymanagementsystemhomework\\librarymanagementsystemhomework\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|solutionrelative:librarymanagementsystemhomework\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\librarymanagementsystemhomework\\librarymanagementsystemhomework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|solutionrelative:librarymanagementsystemhomework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\librarymanagementsystemhomework\\librarymanagementsystemhomework\\viewmodels\\author\\authorcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|solutionrelative:librarymanagementsystemhomework\\viewmodels\\author\\authorcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\librarymanagementsystemhomework\\librarymanagementsystemhomework\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|solutionrelative:librarymanagementsystemhomework\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\librarymanagementsystemhomework\\librarymanagementsystemhomework\\viewmodels\\books\\bookeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|solutionrelative:librarymanagementsystemhomework\\viewmodels\\books\\bookeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\librarymanagementsystemhomework\\librarymanagementsystemhomework\\viewmodels\\books\\bookcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|solutionrelative:librarymanagementsystemhomework\\viewmodels\\books\\bookcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\librarymanagementsystemhomework\\librarymanagementsystemhomework\\views\\author\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|solutionrelative:librarymanagementsystemhomework\\views\\author\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\librarymanagementsystemhomework\\librarymanagementsystemhomework\\views\\author\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|solutionrelative:librarymanagementsystemhomework\\views\\author\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\librarymanagementsystemhomework\\librarymanagementsystemhomework\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|solutionrelative:librarymanagementsystemhomework\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\librarymanagementsystemhomework\\librarymanagementsystemhomework\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|solutionrelative:librarymanagementsystemhomework\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\librarymanagementsystemhomework\\librarymanagementsystemhomework\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|solutionrelative:librarymanagementsystemhomework\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\librarymanagementsystemhomework\\librarymanagementsystemhomework\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|solutionrelative:librarymanagementsystemhomework\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\librarymanagementsystemhomework\\librarymanagementsystemhomework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|solutionrelative:librarymanagementsystemhomework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\librarymanagementsystemhomework\\librarymanagementsystemhomework\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,20 +87,12 @@
       "RelativeMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|solutionrelative:librarymanagementsystemhomework\\models\\bookauthors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\librarymanagementsystemhomework\\librarymanagementsystemhomework\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|solutionrelative:librarymanagementsystemhomework\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\librarymanagementsystemhomework\\librarymanagementsystemhomework\\models\\authorcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|solutionrelative:librarymanagementsystemhomework\\models\\authorcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\librarymanagementsystemhomework\\librarymanagementsystemhomework\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|solutionrelative:librarymanagementsystemhomework\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\librarymanagementsystemhomework\\librarymanagementsystemhomework\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|solutionrelative:librarymanagementsystemhomework\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\librarymanagementsystemhomework\\librarymanagementsystemhomework\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -81,10 +105,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\librarymanagementsystemhomework\\librarymanagementsystemhomework\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|solutionrelative:librarymanagementsystemhomework\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\librarymanagementsystemhomework\\librarymanagementsystemhomework\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|solutionrelative:librarymanagementsystemhomework\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD367C2B-5355-4C2F-ADCB-FFC5A29D6EFD}|LibraryManagementSystemHomework\\LibraryManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\librarymanagementsystemhomework\\librarymanagementsystemhomework\\migrations\\20250429224901_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -111,67 +131,75 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BookController.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Controllers\\BookController.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\Controllers\\BookController.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Controllers\\BookController.cs*",
-              "RelativeToolTip": "LibraryManagementSystemHomework\\Controllers\\BookController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T22:50:33.001Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Views\\Book\\Create.cshtml",
-              "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\Views\\Book\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Views\\Book\\Create.cshtml",
-              "RelativeToolTip": "LibraryManagementSystemHomework\\Views\\Book\\Create.cshtml",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAkwCQAAAAMAAAAAAAAAA==",
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Views\\Author\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\Views\\Author\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Views\\Author\\Delete.cshtml",
+              "RelativeToolTip": "LibraryManagementSystemHomework\\Views\\Author\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-29T23:00:34.685Z",
+              "WhenOpened": "2025-05-01T13:13:17.495Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Views\\Book\\Index.cshtml",
-              "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\Views\\Book\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Views\\Book\\Index.cshtml",
-              "RelativeToolTip": "LibraryManagementSystemHomework\\Views\\Book\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAiwCkAAABOAAAAAAAAAA==",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Views\\Author\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\Views\\Author\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Views\\Author\\Edit.cshtml",
+              "RelativeToolTip": "LibraryManagementSystemHomework\\Views\\Author\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-29T22:57:49.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T13:03:29.761Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BookEditVM.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\ViewModels\\Books\\BookEditVM.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\ViewModels\\Books\\BookEditVM.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\ViewModels\\Books\\BookEditVM.cs*",
-              "RelativeToolTip": "LibraryManagementSystemHomework\\ViewModels\\Books\\BookEditVM.cs*",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBcAAAAIAAAAAAAAAA==",
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "LibraryManagementSystemHomework\\Controllers\\AuthorController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAwFUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T22:53:27.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T12:00:14.233Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "AuthorsController.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Controllers\\AuthorsController.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\Controllers\\AuthorsController.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Controllers\\AuthorsController.cs",
-              "RelativeToolTip": "LibraryManagementSystemHomework\\Controllers\\AuthorsController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Title": "AuthorEditVM.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\ViewModels\\Author\\AuthorEditVM.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\ViewModels\\Author\\AuthorEditVM.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\ViewModels\\Author\\AuthorEditVM.cs",
+              "RelativeToolTip": "LibraryManagementSystemHomework\\ViewModels\\Author\\AuthorEditVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T11:40:35.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T12:53:36.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookEditVM.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\ViewModels\\Books\\BookEditVM.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\ViewModels\\Books\\BookEditVM.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\ViewModels\\Books\\BookEditVM.cs",
+              "RelativeToolTip": "LibraryManagementSystemHomework\\ViewModels\\Books\\BookEditVM.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:53:27.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthorCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\ViewModels\\Author\\AuthorCreateVM.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\ViewModels\\Author\\AuthorCreateVM.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\ViewModels\\Author\\AuthorCreateVM.cs",
+              "RelativeToolTip": "LibraryManagementSystemHomework\\ViewModels\\Author\\AuthorCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T12:00:45.609Z"
             },
             {
               "$type": "Document",
@@ -181,89 +209,109 @@
               "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\Views\\Book\\Edit.cshtml",
               "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Views\\Book\\Edit.cshtml",
               "RelativeToolTip": "LibraryManagementSystemHomework\\Views\\Book\\Edit.cshtml",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T19:30:32.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T19:30:32.576Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BookCreateVM.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\ViewModels\\Books\\BookCreateVM.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\ViewModels\\Books\\BookCreateVM.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\ViewModels\\Books\\BookCreateVM.cs*",
-              "RelativeToolTip": "LibraryManagementSystemHomework\\ViewModels\\Books\\BookCreateVM.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T20:34:47.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Program.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\Program.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Program.cs",
-              "RelativeToolTip": "LibraryManagementSystemHomework\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBkAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T22:44:21.701Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Views\\Book\\Delete.cshtml",
               "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\Views\\Book\\Delete.cshtml",
               "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Views\\Book\\Delete.cshtml",
               "RelativeToolTip": "LibraryManagementSystemHomework\\Views\\Book\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T18:57:36.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Publisher.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Models\\Publisher.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\Models\\Publisher.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Models\\Publisher.cs",
-              "RelativeToolTip": "LibraryManagementSystemHomework\\Models\\Publisher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T22:42:59.895Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BookAuthors.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Models\\BookAuthors.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\Models\\BookAuthors.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Models\\BookAuthors.cs",
-              "RelativeToolTip": "LibraryManagementSystemHomework\\Models\\BookAuthors.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T22:41:59.742Z"
+              "WhenOpened": "2025-04-30T18:57:36.004Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Models\\Book.cs",
-              "RelativeToolTip": "LibraryManagementSystemHomework\\Models\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "BookCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\ViewModels\\Books\\BookCreateVM.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\ViewModels\\Books\\BookCreateVM.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\ViewModels\\Books\\BookCreateVM.cs",
+              "RelativeToolTip": "LibraryManagementSystemHomework\\ViewModels\\Books\\BookCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T22:41:26.249Z"
+              "WhenOpened": "2025-04-30T20:34:47.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\Views\\Book\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "LibraryManagementSystemHomework\\Views\\Book\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T23:00:34.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Views\\Author\\Create.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\Views\\Author\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Views\\Author\\Create.cshtml",
+              "RelativeToolTip": "LibraryManagementSystemHomework\\Views\\Author\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T12:15:37.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "LibraryManagementSystemHomework\\Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T22:57:49.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Views\\Author\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\Views\\Author\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Views\\Author\\Index.cshtml",
+              "RelativeToolTip": "LibraryManagementSystemHomework\\Views\\Author\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T12:12:04.599Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LibraryManagementSystemHomework\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEwAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T22:56:00.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "LibraryManagementSystemHomework\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:43:49.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Author.cs",
               "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Models\\Author.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\Models\\Author.cs",
@@ -275,7 +323,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\Program.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Program.cs",
+              "RelativeToolTip": "LibraryManagementSystemHomework\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:44:21.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Models\\Publisher.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\Models\\Publisher.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Models\\Publisher.cs",
+              "RelativeToolTip": "LibraryManagementSystemHomework\\Models\\Publisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:42:59.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BookAuthors.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Models\\BookAuthors.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\Models\\BookAuthors.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Models\\BookAuthors.cs",
+              "RelativeToolTip": "LibraryManagementSystemHomework\\Models\\BookAuthors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:41:59.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryManagementSystemHomework\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:41:26.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "BookCategory.cs",
               "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Models\\BookCategory.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\Models\\BookCategory.cs",
@@ -287,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "20250430132127_add.cs",
               "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Migrations\\20250430132127_add.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\Migrations\\20250430132127_add.cs",
@@ -299,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "AuthorContact.cs",
               "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Models\\AuthorContact.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\Models\\AuthorContact.cs",
@@ -311,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\Models\\BaseEntity.cs",
@@ -323,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "HomeVM.cs",
               "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\ViewModels\\HomeVM.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\ViewModels\\HomeVM.cs",
@@ -335,19 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "LibraryManagementSystemHomework\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-29T22:56:00.066Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\Views\\Home\\Index.cshtml",
@@ -359,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "20250429224901_first.cs",
               "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Migrations\\20250429224901_first.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\Migrations\\20250429224901_first.cs",
@@ -371,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\appsettings.Development.json",
               "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\appsettings.Development.json",
@@ -380,18 +464,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-29T22:44:37.988Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystemHomework\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\LibraryManagementSystemHomework\\LibraryManagementSystemHomework\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "LibraryManagementSystemHomework\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T22:43:49.104Z"
             }
           ]
         }
